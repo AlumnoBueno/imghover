@@ -1,0 +1,16 @@
+div {
+    width: 750px;
+    height: 400px;
+    background-color: cyan;
+    border: 5px solid blue;
+    border-radius: 50px;
+    background-image: url(../images/shrek.jpg);
+    background-repeat: no-repeat;
+}
+
+div:hover
+{
+background-image:url(../images/asno.jpg);
+background-repeat:no-repeat;    
+background-size: 750px 400px;
+}
